@@ -1,0 +1,26 @@
+Command: Update  
+Updating: C:\OMUNIM_2.7.296_SVN_COMP_SW_sales\htdocs\omunim from https://svn.omunim.in:9090/svn/production/omunim  
+Conflicted: C:\OMUNIM_2.7.296_SVN_COMP_SW_sales\htdocs\omunim\nbproject\private\private.xml  
+Updated: C:\OMUNIM_2.7.296_SVN_COMP_SW_sales\htdocs\omunim\2\scripts\ogAddFunctions.js  
+Merged: C:\OMUNIM_2.7.296_SVN_COMP_SW_sales\htdocs\omunim\2\scripts\orAddFunction_1_6_1.js  
+Updated: C:\OMUNIM_2.7.296_SVN_COMP_SW_sales\htdocs\omunim\2\include\php\omspnewtaxTblRight.php  
+Updated: C:\OMUNIM_2.7.296_SVN_COMP_SW_sales\htdocs\omunim\2\include\php\omfnpydtl.php  
+Updated: C:\OMUNIM_2.7.296_SVN_COMP_SW_sales\htdocs\omunim\2\include\php\omPrnPrintViaStockList.php  
+Updated: C:\OMUNIM_2.7.296_SVN_COMP_SW_sales\htdocs\omunim\2\include\php\ogib55dv.php  
+Merged: C:\OMUNIM_2.7.296_SVN_COMP_SW_sales\htdocs\omunim\2\include\php\tables\omstoctrans.php  
+Updated: C:\OMUNIM_2.7.296_SVN_COMP_SW_sales\htdocs\omunim\2\include\php\omppmmdv.php  
+Merged: C:\OMUNIM_2.7.296_SVN_COMP_SW_sales\htdocs\omunim\2\include\php\ogspindtRight.php  
+Added: C:\OMUNIM_2.7.296_SVN_COMP_SW_sales\htdocs\omunim\2\include\php\cronjobs\updecomprodprice\omecompriceupdate.php  
+Updated: C:\OMUNIM_2.7.296_SVN_COMP_SW_sales\htdocs\omunim\2\include\php\ogijstrspindtright.php  
+Updated: C:\OMUNIM_2.7.296_SVN_COMP_SW_sales\htdocs\omunim\2\include\php\ompurchasewst.php  
+Updated: C:\OMUNIM_2.7.296_SVN_COMP_SW_sales\htdocs\omunim\2\include\php\omNewOrInvPayTransInfo.php  
+Added: C:\OMUNIM_2.7.296_SVN_COMP_SW_sales\htdocs\omunim\2\include\php\omtempstokwithstonereport.php  
+Updated: C:\OMUNIM_2.7.296_SVN_COMP_SW_sales\htdocs\omunim\2\include\php\omPrnPrintByRange.php  
+Updated: C:\OMUNIM_2.7.296_SVN_COMP_SW_sales\htdocs\omunim\2\include\php\ogib55imidv.php  
+Updated: C:\OMUNIM_2.7.296_SVN_COMP_SW_sales\htdocs\omunim\2\include\php\ompurchaselist.php  
+Updated: C:\OMUNIM_2.7.296_SVN_COMP_SW_sales\htdocs\omunim\2\include\php\ommptbupd26104_6omm.php  
+Updated: C:\OMUNIM_2.7.296_SVN_COMP_SW_sales\htdocs\omunim\2\include\php\ompurchaselistwst.php  
+Updated: C:\OMUNIM_2.7.296_SVN_COMP_SW_sales\htdocs\omunim\2\include\php\omNewOrInvTransInfo.php  
+Merged: C:\OMUNIM_2.7.296_SVN_COMP_SW_sales\htdocs\omunim\2\include\php\ompplypd.php  
+Completed: At revision: 354  
+Warning!: One or more files are in a conflicted state.  
