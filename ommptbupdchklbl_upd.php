@@ -1,28 +1,4 @@
-<?php
 
-/*
- * **************************************************************************************
- * @tutorial: // Delete all old entries except the latest one in label @shreya
- * **************************************************************************************
- * 
- * Created on 11 DEC 2024
- *
- * @FileName: ommptbupdchklbl_upd.php
- * @Author: SoftwareGen Developement Team
- * @AuthorEmailId:  info@softwaregen.com
- * @ProjectName: omunim
- * @version 1.0.1
- * @Copyright (c) 2010 www.softwaregen.com
- * @All rights reserved
- *  Copyright 2012 SoftwareGen, Inc
- *
- * @ModificaionHistory
- *  MODIFICATION DATE:
- *  AUTHOR:@shreya
- *  REASON:
- *
- */
-?>
 <?php
 include 'system/omsachsc.php';
 include 'ommprspc.php';
