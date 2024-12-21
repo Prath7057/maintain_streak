@@ -7,10 +7,6 @@ include_once 'ommpnmwd.php';
 require_once 'ommpincr.php';
 include_once 'ommpfunc.php';
 ?>
-<?php
-$qMetalPurDetails = "SELECT DISTINCT(label_field_name), label_type FROM labels WHERE label_type IN ('SellPurchase', 'GoldSellPurchase', 'SilverSellPurchase', 'SUPPILER_INVOICE', 'RawMetalPurchase', 'estimateSell', 'APPROVAL', 'sellReturn', 'PurchaseReturn', 'ROUGH_ESTIMATE', 'PendingOrderInvoice')";
-$resMetalPurDetails = mysqli_query($conn, $qMetalPurDetails) or die(mysqli_error($conn));
-$totalPurCounter = mysqli_num_rows($resMetalPurDetails);
 
 if ($totalPurCounter > 0) {
     while ($rowMetalPurDetails = mysqli_fetch_array($resMetalPurDetails)) {
