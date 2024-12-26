@@ -1,6 +1,4 @@
-Command: Update  
-Updating: C:\OMUNIM_2.7.296_SVN_COMP_SW_sales\htdocs\omunim from vhhfchg
-https://svn.omunim.in:9090/svn/production/omunim  
+
 Conflicted: C:\OMUNIM_2.7.296_SVN_COMP_SW_sales\htdocs\omunim\nbproject\private\private.xml  
 Updated: C:\OMUNIM_2.7.296_SVN_COMP_SW_sales\htdocs\omunim\2\scripts\ogAddFunctions.js  
 Merged: C:\OMUNIM_2.7.296_SVN_COMP_SW_sales\htdocs\omunim\2\scripts\orAddFunction_1_6_1.js  
