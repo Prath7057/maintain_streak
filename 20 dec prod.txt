@@ -1,9 +1,4 @@
-
-Updated: C:\OMUNIM_2.7.296_SVN_COMP_SW_sales\htdocs\omunim\2\include\php\omPrnPrintViaStockList.php  
-Updated: C:\OMUNIM_2.7.296_SVN_COMP_SW_sales\htdocs\omunim\2\include\php\ogib55dv.php  
-Merged: C:\OMUNIM_2.7.296_SVN_COMP_SW_sales\htdocs\omunim\2\include\php\tables\omstoctrans.php  
-Updated: C:\OMUNIM_2.7.296_SVN_COMP_SW_sales\htdocs\omunim\2\include\php\omppmmdv.php  
-Merged: C:\OMUNIM_2.7.296_SVN_COMP_SW_sales\htdocs\omunim\2\include\php\ogspindtRight.php  
+ 
 Added: C:\OMUNIM_2.7.296_SVN_COMP_SW_sales\htdocs\omunim\2\include\php\cronjobs\updecomprodprice\omecompriceupdate.php  
 Updated: C:\OMUNIM_2.7.296_SVN_COMP_SW_sales\htdocs\omunim\2\include\php\ogijstrspindtright.php  
 Updated: C:\OMUNIM_2.7.296_SVN_COMP_SW_sales\htdocs\omunim\2\include\php\ompurchasewst.php  
