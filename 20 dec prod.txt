@@ -1,8 +1,4 @@
 
-Updated: C:\OMUNIM_2.7.296_SVN_COMP_SW_sales\htdocs\omunim\2\scripts\ogAddFunctions.js  
-Merged: C:\OMUNIM_2.7.296_SVN_COMP_SW_sales\htdocs\omunim\2\scripts\orAddFunction_1_6_1.js  
-Updated: C:\OMUNIM_2.7.296_SVN_COMP_SW_sales\htdocs\omunim\2\include\php\omspnewtaxTblRight.php  
-Updated: C:\OMUNIM_2.7.296_SVN_COMP_SW_sales\htdocs\omunim\2\include\php\omfnpydtl.php  
 Updated: C:\OMUNIM_2.7.296_SVN_COMP_SW_sales\htdocs\omunim\2\include\php\omPrnPrintViaStockList.php  
 Updated: C:\OMUNIM_2.7.296_SVN_COMP_SW_sales\htdocs\omunim\2\include\php\ogib55dv.php  
 Merged: C:\OMUNIM_2.7.296_SVN_COMP_SW_sales\htdocs\omunim\2\include\php\tables\omstoctrans.php  
