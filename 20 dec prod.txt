@@ -5,7 +5,6 @@ Updated: C:\OMUNIM_2.7.296_SVN_COMP_SW_sales\htdocs\omunim\2\include\php\ompurch
 Updated: C:\OMUNIM_2.7.296_SVN_COMP_SW_sales\htdocs\omunim\2\include\php\omNewOrInvPayTransInfo.php  
 Added: C:\OMUNIM_2.7.296_SVN_COMP_SW_sales\htdocs\omunim\2\include\php\omtempstokwithstonereport.php  
 Updated: C:\OMUNIM_2.7.296_SVN_COMP_SW_sales\htdocs\omunim\2\include\php\ogib55imidv.php  
-Updated: C:\OMUNIM_2.7.296_SVN_COMP_SW_sales\htdocs\omunim\2\include\php\ompurchaselist.php  
 Updated: C:\OMUNIM_2.7.296_SVN_COMP_SW_sales\htdocs\omunim\2\include\php\ommptbupd26104_6omm.php  
 Updated: C:\OMUNIM_2.7.296_SVN_COMP_SW_sales\htdocs\omunim\2\include\php\ompurchaselistwst.php  
 Updated: C:\OMUNIM_2.7.296_SVN_COMP_SW_sales\htdocs\omunim\2\include\php\omNewOrInvTransInfo.php  
