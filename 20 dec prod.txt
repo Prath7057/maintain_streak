@@ -1,5 +1,5 @@
  
-Added: C:\OMUNIM_2.7.296_SVN_COMP_SW_sales\htdocs\omunim\2\include\php\cronjobs\updecomprodprice\omecompriceupdate.php  
+Added: C:\OMUNIM_2.7.296_SVN_COMP_SW_sales\htdocs\omunim\2\include\php\cronjobs\updecomprodprice\omecompriceupdate
 Updated: C:\OMUNIM_2.7.296_SVN_COMP_SW_sales\htdocs\omunim\2\include\php\ogijstrspindtright.php  
 Updated: C:\OMUNIM_2.7.296_SVN_COMP_SW_sales\htdocs\omunim\2\include\php\ompurchasewst.php  
 Updated: C:\OMUNIM_2.7.296_SVN_COMP_SW_sales\htdocs\omunim\2\include\php\omNewOrInvPayTransInfo.php  
