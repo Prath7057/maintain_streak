@@ -2,4 +2,4 @@
 Added: C:\OMUNIM_2.7.296_SVMP_SW_sales\htdocs\omunim\2\include\php\cronjobs\mprodprice\omecompriceupdate
 Updated: C:\OMUNIM_2.7.296_SVN_COMP_SW_sales\htdocs\omunim\2\include\php\ogijstrspindtright.php  d: C:\OMUNIM_2.7.296_SVN_COMP_SW_sales\htdocs\omunim\2\include\php\ompurchasewst.php  
 Updated: C:\OMUNIM_2.7.296_SVN_COMP_SW_sales\htdocs\omunim\2\include\php\ogib55imidv.php  
-\Updated: C:\OMUNIM_2.7.296_SVN_COMP_SW_sales\htdocs\omunim\2\include\php\ompurchaselistwst.php  
+C:\OMUNIM_2.7.296_SVN_COMP_SW_sales\htdocs\omunim\2\include\php\ompurchaselistwst.php  
