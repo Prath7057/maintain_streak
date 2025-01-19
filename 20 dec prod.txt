@@ -1,4 +1,3 @@
  
 C:\OMUNIM_2.7.296_SVMP_SW_sales\htdocs\omunim\2\include\php\cronjobs\mprodprice\omecompriceupdate
-C:\OMUNIM_2.7.296_SVN_COMP_SW_sales\htdocs\omunim\2\include\php\ogijstrspindtright.php  d: C:\OMUNIM_2.7.296_SVN_COMP_SW_sales\htdocs\omunim\2\include\php\ompurchasewst.php  
 
