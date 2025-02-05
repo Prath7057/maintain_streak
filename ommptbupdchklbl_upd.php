@@ -9,6 +9,7 @@ include_once 'ommpfunc.php';
 ?>
 77
 if ($totalPurCounter > 0) {
+mmm
     while ($rowMetalPurDetails = mysqli_fetch_array($resMetalPurDetails)) {
         $label_field_name = $rowMetalPurDetails['label_field_name'];
         $labelType = $rowMetalPurDetails['label_type'];
