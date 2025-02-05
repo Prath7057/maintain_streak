@@ -21,7 +21,7 @@ mmm
         if ($row = mysqli_fetch_assoc($resultLatestEntry)) {
             $lastId = $row['label_id'];
            
-            // Delete all old entries except the latest one
+            // Delete all oldes except the latest one
            
         }
     }
