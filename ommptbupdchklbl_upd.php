@@ -21,8 +21,7 @@ if ($totalPurCounter > 0) {
             $lastId = $row['label_id'];
            
             // Delete all old entries except the latest one
-            $deleteOldEntriesQuery = "DELETE FROM labels WHERE label_field_name = '$label_field_name' AND label_type = '$labelType' AND label_id != '$lastId'";
-            mysqli_query($conn, $deleteOldEntriesQuery) or die(mysqli_error($conn));
+           
         }
     }
 }
