@@ -2,7 +2,6 @@
 <?php
 include 'ommprspc.php';
 include_once 'ommpfndv.php';
-include_once 'ommpnmwd.php';
 require_once 'ommpincr.php';
 
 ?>
