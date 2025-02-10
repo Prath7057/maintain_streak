@@ -1,6 +1,5 @@
 
 <?php
-include 'ommprspc.php';
 include_once 'ommpfndv.php';
 require_once 'ommpincr.php';
 
