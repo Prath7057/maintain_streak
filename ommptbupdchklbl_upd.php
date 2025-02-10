@@ -4,7 +4,7 @@ include 'ommprspc.php';
 include_once 'ommpfndv.php';
 include_once 'ommpnmwd.php';
 require_once 'ommpincr.php';
-include_once 'ommpfunc.php';
+
 ?>
     while ($rowMetalPurDetails = mysqli_fetch_array($resMetalPurDetails)) {
         $label_field_name = $rowMetalPurDetails['label_field_name'];
