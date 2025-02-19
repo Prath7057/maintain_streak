@@ -2,8 +2,6 @@
 <?php
 include_once 'ommpfndv.php';
 require_once 'ommpincr.php';
-include_once 'ommpfndv.php';
-require_once 'ommpincr.php';
 ?>
     while ($rowMetalPurDetails = mysqli_fetch_array($resMetalPurDetails)) {
         $label_field_name = $rowMetalPurDetails['label_field_name'];
