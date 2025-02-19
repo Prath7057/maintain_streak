@@ -13,7 +13,7 @@ require_once 'ommpincr.php';
         
         if ($row = mysqli_fetch_assoc($resultLatestEntry)) {
             $lastId = $row['label_id'];
-           
+           $lastId = $row['label_id'];
         }
     }
 }
