@@ -1,2 +1,48 @@
-Prathamesh Patil XDBS PUNE
-7057011159
+Hello Prathmesh,
+
+Hope you are doing well , check bellow task and submit it tomorrow EOD.
+reply with same thread if you required anything about task only.
+Objective:
+Develop a School Registration & Student Management System in Laravel where schools can register, confirm their email, and manage students with filtering, pagination, and Excel import functionality.
+Features to Implement:
+1. School Registration & Authentication
+Create a School Registration Form with:
+School Name (Required)
+Address (Required)
+Email (Unique, Required, Email Validation)
+Phone Number (Required, Numeric)
+Password & Confirm Password (Match Validation, Hashing)
+Upload Profile Picture (Image Validation, Store in storage/app/public)
+Email Confirmation:
+Send a verification email after registration.
+Only allow login after email confirmation.
+Login & Logout:
+Use Laravel authentication (Auth::routes()).
+Redirect schools to their dashboard after login.
+2. School Dashboard (After Login)
+Show Welcome Message with School Info.
+Provide an interface to manage students.
+3. Student Management
+Add Student Form:
+Name (Required)
+Email (Unique, Required)
+Class (Dropdown, Required)
+Age (Required, Numeric)
+Gender (Dropdown: Male/Female/Other, Required)
+Profile Picture (Image Validation, Store in storage/app/public)
+Country, State, City, Zip Code (Required)
+List of Students with Pagination (5 records per page).
+Edit & Delete Student.
+Filters:
+By Class
+By Age
+By City
+4. Import Students from Excel
+Use excel package to import students.
+Excel should have columns matching the student fields.
+Validate before importing.
+Bonus Points:
+Use Laravel Livewire or Vue.js for a better user experience.
+Implement AJAX-based filtering without page reload.
+Use Spatie Laravel Permissions for role-based access (optional).
+Improve UI using Bootstrap or Tailwind CSS.
