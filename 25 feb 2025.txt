@@ -1,0 +1,3 @@
+EncureIt questions
+1. multiple database connection.
+2. if 2 users using with same credentials then how we check which user done changes
