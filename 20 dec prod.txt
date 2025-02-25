@@ -46,3 +46,5 @@ Use Laravel Livewire or Vue.js for a better user experience.
 Implement AJAX-based filtering without page reload.
 Use Spatie Laravel Permissions for role-based access (optional).
 Improve UI using Bootstrap or Tailwind CSS.
+
+Done
